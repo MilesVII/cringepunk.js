@@ -16,11 +16,11 @@ In-house [PIXI.js](https://pixijs.com/) project template prepared for playable a
 - **utils.js**: Dependency-free miscellaneous JS utils
 
 ## Usage
-**npm i** to install dependencies
-**npm run debug** to make a debug build
-**npm run watch** to make a continuous debug builds
-**npm run build** to make a release build, saved into folders with different names and *BundleAnalyzerPlugin*
-**npm run zip** for packing release build into zip archives
+- **npm i** to install dependencies
+- **npm run debug** to make a debug build
+- **npm run watch** to make a continuous debug builds
+- **npm run build** to make a release build, saved into folders with different names and *BundleAnalyzerPlugin*
+- **npm run zip** for packing release build into zip archives
 
 Builds are saved to *dist/* directory
 
