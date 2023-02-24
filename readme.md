@@ -1,6 +1,8 @@
 # Cringepunk.js
 In-house [PIXI.js](https://pixijs.com/) project template prepared for playable ads development. Uses [webpack](https://webpack.js.org/), [Pug](https://pugjs.org/api/getting-started.html), [pixi-spine](https://github.com/pixijs/spine)
 
+## [Demo build](https://mikumiku.vercel.app/pages/cringepunk/)
+
 ## What's inside
 - **Configured webpack**: ready to go as soon as npm dependencies are installed. Has *debug*, *build* and *watch* commands ready. Also runs *[BundleAnalyzerPlugin](https://www.npmjs.com/package/webpack-bundle-analyzer)* on release build
 - **Ads API integration**: supports DAPI for *ironSource* (fuck ironSource, seriously) and MRAID 2.0 for *Unity Ads*, *Applovin* and *Vungle*. Simultaneously, no rebuilding. Can also be built for *Facebook* ads, enable *FB_ON* flag in *ads_api.js*
